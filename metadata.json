@@ -1,0 +1,6 @@
+{
+  "name": "Eleven — AI Reverse Engineering & Binary Analysis",
+  "description": "Enterprise-grade AI-assisted reverse engineering and binary analysis platform powered by Ghidra, REA, Reverse-Skill, and intelligent program comprehension agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
